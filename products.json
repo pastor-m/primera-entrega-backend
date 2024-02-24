@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Mouse",
+    "description": "Mouse",
+    "code": "abc1",
+    "price": "100",
+    "status": true,
+    "stock": "1",
+    "thumbnail": "sin imagen",
+    "category": "electronics",
+    "id": "1"
+  },
+  {
+    "title": "Monitor",
+    "description": "Monitor",
+    "price": "300",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc3",
+    "stock": "3",
+    "category": "electronics",
+    "id": "3"
+  },
+  {
+    "title": "Desktop",
+    "description": "Desktop",
+    "price": "400",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc4",
+    "stock": "4",
+    "category": "electronics",
+    "id": "4"
+  },
+  {
+    "title": "Mousepad",
+    "description": "Mousepad",
+    "price": "500",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc5",
+    "stock": "5",
+    "category": "electronics",
+    "id": "5"
+  },
+  {
+    "title": "Headset",
+    "description": "Headset",
+    "price": "600",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc6",
+    "stock": "6",
+    "category": "electronics",
+    "id": "6"
+  },
+  {
+    "title": "Lamp",
+    "description": "Lamp",
+    "price": "700",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc7",
+    "stock": "7",
+    "category": "furniture",
+    "id": "7"
+  },
+  {
+    "title": "Chair",
+    "description": "Chair",
+    "price": "800",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc8",
+    "stock": "8",
+    "category": "furniture",
+    "id": "8"
+  },
+  {
+    "title": "Desk",
+    "description": "Desk",
+    "price": "900",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc9",
+    "stock": "9",
+    "category": "furniture",
+    "id": "9"
+  },
+  {
+    "title": "Charger",
+    "description": "Charger",
+    "price": "1000",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "abc10",
+    "stock": "10",
+    "category": "furniture",
+    "id": "10"
+  },
+  {
+    "title": "Telefono",
+    "description": "Telefono",
+    "code": "abc867",
+    "price": "1006",
+    "status": true,
+    "thumbnail": "sin imagen",
+    "stock": "12",
+    "category": "furniture",
+    "id": "2"
+  },
+  {
+    "title": "Telefono",
+    "description": "Telefono",
+    "code": "abc867",
+    "price": "1006",
+    "status": true,
+    "stock": "12",
+    "thumbnail": "sin imagen",
+    "id": "793",
+    "category": "furniture"
+  }
+]

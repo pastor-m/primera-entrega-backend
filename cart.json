@@ -1,0 +1,47 @@
+[
+  {
+    "id": "143",
+    "products": [
+      {
+        "id": "465",
+        "product": "frijol",
+        "quantity": 42
+      },
+      {
+        "id": "415",
+        "product": "arroz",
+        "quantity": 63
+      },
+      {
+        "id": "45",
+        "product": "lentejas",
+        "quantity": 67
+      }
+    ]
+  },
+  {
+    "id": "858",
+    "products": [
+      {
+        "product": "reloj",
+        "quantity": 42,
+        "id": "569"
+      },
+      {
+        "product": "teclado",
+        "quantity": 63,
+        "id": "510"
+      },
+      {
+        "product": "monitor",
+        "quantity": 67,
+        "id": "608"
+      },
+      {
+        "product": "",
+        "quantity": 3,
+        "id": "877"
+      }
+    ]
+  }
+]
